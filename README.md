@@ -25,7 +25,7 @@ NB: Outils conseillés: **[ungit](https://github.com/FredrikNoren/ungit)** (Int�
 
 Penser à y ajouter ce dépôt, **AutoMenu** pour synchroniser facilement votre dépôt (Ex. dans Ungit: ***Add Remote*** et l'URL de ce dépôt)
 
-5. [Aide ou Signalee un Bug](https://github.com/c57fr/pooga/issues/new)
+5. [Aide ou Signaler un Bug](https://github.com/c57fr/pooga/issues/new)
 
 ## Pour AutoMenu
 
