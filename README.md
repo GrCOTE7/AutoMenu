@@ -1,6 +1,7 @@
 # AutoMenu (AM)
 
-Script à vocation pédagogique uniquement
+Script à vocation pédagogique uniquement.
+Facilite la création de nouvelles page pour tests divers isolés.
 
 Nécessite **PHP 7.1+** et X-debug installé (Recommandé)
 
@@ -22,7 +23,7 @@ git clone URL_de_votre_dépôt_GitHub_de_VH
 
 NB: Outils conseillés: **[ungit](https://github.com/FredrikNoren/ungit)** (Intégré facilement dans les éditeurs Brackets ou Visual Studio Code grâce à leurs plugins respectifs) et **[GitKraken](https://www.gitkraken.com/)**
 
-Penser à y ajouter ce dépôt, **POOGA** pour synchroniser facilement votre dépôt (Ex. dans Ungit: ***Add Remote*** et l'URL de ce dépôt)
+Penser à y ajouter ce dépôt, **AutoMenu** pour synchroniser facilement votre dépôt (Ex. dans Ungit: ***Add Remote*** et l'URL de ce dépôt)
 
 5. [Aide ou Signalee un Bug](https://github.com/c57fr/pooga/issues/new)
 
@@ -30,7 +31,7 @@ Penser à y ajouter ce dépôt, **POOGA** pour synchroniser facilement votre dé
 
 ### IMPORTANT :
 
-### Toujours conserver les dossiers ./Gc7Ga/, ./blob/ et ./divers/
+### Toujours conserver le dossier ./aGc7/ et les fichiers à la racine
 
 **Pour aisément** et **rapidement naviguer** dans **vos scripts** pour tests
 
@@ -47,17 +48,17 @@ Pour supprimer un de vos dossiers, simplement le supprimer 'en vrai', avec votre
   Pour lancer le serveur
 
 ```ini
-[Dans le dossier do]
+[Dans le dossier AM]
 Gulp
 ```
 
 ## Capture d'écran
-![Apperçu](./agc7/clips/PooViewer.gif)
+À venir (TODOLI)
 
 ## Contenu:
 
-- UN dossier exemple 'Poo'
+- UN dossier exemple 'Divers'
 - Un index exemple
 
 ## App pour dev en local exclusivement
-En local, recommandé de faire virtual host : [Do](http://do)
+En local, recommandé de faire virtual host : [AM](http://AM)
