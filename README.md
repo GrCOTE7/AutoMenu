@@ -16,14 +16,14 @@ Nécessite **PHP 7.1+** et X-debug installé (Recommandé)
 [en mode console, dans le dossier de votre virtual localhost : ]
 git clone URL_de_votre_dépôt_GitHub_de_VH
 ```
-
+3. Installer les dépendances
 ```ini
 composer update
 ```
 
-3. Réaliser toutes modifications, corrections, améliorations, etc... souhaitées
+4. Réaliser toutes modifications, corrections, améliorations, etc... souhaitées
 
-4. Demander une fusion (= Effectuer un ***Merge Request***)
+5. Demander une fusion (= Effectuer un ***Merge Request***)
 
 NB: Outils conseillés: **[ungit](https://github.com/FredrikNoren/ungit)** (Intégré facilement dans les éditeurs Brackets ou Visual Studio Code grâce à leurs plugins respectifs) et **[GitKraken](https://www.gitkraken.com/)**
 
