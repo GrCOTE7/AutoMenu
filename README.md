@@ -16,7 +16,9 @@ Nécessite **PHP 7.1+** et X-debug installé (Recommandé)
 [en mode console, dans le dossier de votre virtual localhost : ]
 git clone URL_de_votre_dépôt_GitHub_de_VH
 ```
+
 3. Installer les dépendances
+
 ```ini
 composer update
 ```
