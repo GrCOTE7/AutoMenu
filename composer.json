@@ -31,7 +31,7 @@
       "email": "GrCOTE7@GMail.com"
     }
   ],
-  "license": "New BSD License",
+  "license": "BSD-3-Clause",
   "require": {
     "php": ">=7.1.7",
     "jbroadway/urlify": "^1.1",
