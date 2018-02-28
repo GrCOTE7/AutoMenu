@@ -17,6 +17,10 @@ Nécessite **PHP 7.1+** et X-debug installé (Recommandé)
 git clone URL_de_votre_dépôt_GitHub_de_VH
 ```
 
+```ini
+composer update
+```
+
 3. Réaliser toutes modifications, corrections, améliorations, etc... souhaitées
 
 4. Demander une fusion (= Effectuer un ***Merge Request***)
@@ -57,7 +61,7 @@ Gulp
 
 ## Contenu:
 
-- UN dossier exemple 'Divers'
+- Un dossier exemple 'Divers'
 - Un index exemple
 
 ## App pour dev en local exclusivement
