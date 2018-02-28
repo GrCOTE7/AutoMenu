@@ -1,0 +1,125 @@
+body {
+    padding-top: 60px;
+    /* 60px to make the container go all the way to the bottom of the topbar */
+    font-size: 1.4em;
+    font-family: Trebuchet MS, arial, serif;
+}
+.topbar-logo:hover {
+    background-color: #5f883e;
+    outline:none;
+}
+
+.topbar-logo {
+
+    float: left;
+    display: block;
+    height: 50px;
+    width: 60px;
+    margin-top: 0;
+    padding-top: 5px;
+    margin-right: 15px;
+    background-color: #78ab4e;
+    text-align: center;
+    transition-duration: .5s;
+}
+h2 {
+    margin: 5px 0 10px;
+}
+
+.gc7Main {
+    display: inline-block;
+    /* border:1px solid blue; */
+    width: 65%;
+    margin-left: 3%;
+}
+
+.gc7AsideD {
+    display: inline-block;
+    /* border:1px solid red; */
+    float: right;
+    width: 20%;
+    margin-right: 10%;
+    margin-top: 10px;
+    line-height: .7;
+}
+
+.siteName {
+    display: inline-block;
+    font-size: 1.4em;
+    color: red;
+    padding-top: 12px;
+}
+
+p {
+    text-align: justify;
+}
+
+.navbar a {
+    color: #78ab4e;
+}
+
+a:hover{
+    text-decoration: none;
+}
+.navbar a:hover {
+    color: #fff;
+}
+
+.cadreOrange {
+    border: 3px solid orange;
+    border-radius: 7px;
+    margin: 15px;
+    padding: 13.17px 20px;
+}
+
+#divers pre {
+    overflow: unset;
+}
+
+#divers table.gc7Table {
+    color: #333;
+    text-align: center;
+}
+
+#divers table.gc7Table td:nth-of-type(1) {
+    border: 1px solid #aeaeae;
+    padding: 0 10px;
+}
+
+#divers table.gc7Table td:nth-of-type(2) {
+    background-color: cornsilk;
+    padding: 0 150px;
+    border: 1px solid #aeaeae;
+}
+
+.uri {
+    position: fixed;;
+    display: block;
+    float: right;
+    top: 0;
+    z-index: 2000;
+    right: 5px;
+    color: mediumpurple;
+}
+
+.btn {
+    display: inline-block;
+    min-height: 40px;
+    padding: 0 15px;
+    line-height: 36px;
+    color: #fff;
+    text-align: center;
+    text-decoration: none !important;
+    font-weight: 700;
+    background-color: #78ab4e;
+    border: 2px solid transparent;
+    cursor: pointer;
+    transition: .5s;
+    border-radius: 3px;
+}
+
+.btn:hover {
+    border: 2px solid #78ab4e;
+    color: #78ab4e;
+    background-color: transparent;
+}

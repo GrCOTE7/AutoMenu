@@ -1,0 +1,9 @@
+{
+  "apps": [
+    {
+      "nom": "appPrincipaleNom",
+      "chemin": "appPrincipale"
+    }
+  ],
+  "activeApp": 0
+}
